@@ -1,0 +1,10 @@
+person:
+  name: 林${random.int}
+  age: 22
+  map:
+    lin: true
+    zhao: false
+  list:
+    - 3
+    - 4
+    - 5
